@@ -15,5 +15,8 @@
     "ejs": "^3.1.10",
     "inquirer": "^10.1.8"
   },
+  "repository": {
+    "url": "https://github.com/ZaPuncakeu/react-generator.git"
+  },
   "type": "module"
 }
