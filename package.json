@@ -1,5 +1,5 @@
 {
-  "name": "react-generator",
+  "name": "anis-react-generator",
   "version": "1.0.1",
   "description": "A small tool to generate components in a structured an uniformed fashion",
   "main": "./bin/index.js",
